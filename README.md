@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Nagasai
 
-<!--
-**nagasai-datha/nagasai-datha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Data Analyst focused on SQL, Power BI, and data-driven business insights.
 
-Here are some ideas to get you started:
+## 🚀 Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎵 Apple iTunes Music Store Analysis (SQL + Power BI)
+- 🚗 Uber Supply Demand Gap Analysis
+- 🏥 MediBuddy Insurance EDA
+- 🎮 Video Game Sales Analysis
+
+## 🧰 Skills
+
+- SQL
+- Power BI
+- Data Analysis
+- Data Visualization
+- Business Intelligence
+
+## 📫 Connect
+
+LinkedIn: (add your link here)
